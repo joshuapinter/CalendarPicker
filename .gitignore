@@ -17,3 +17,5 @@ DerivedData
 *.hmap
 *.ipa
 *.xcuserstate
+.npmignore
+npm-debug.log
